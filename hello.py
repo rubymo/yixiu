@@ -8,11 +8,11 @@
 
 
 # print("hello world")
-# print("hello world")
-from selenium import webdriver
-driver = webdriver.Chrome()
-driver.get('http://www.baidu.com')
-driver.find_element_by_id('kw').send_keys('selenium')
-driver.find_element_by_id('su').click()
-#driver.close()
-#driver.quit()
+print("hello world")
+# from selenium import webdriver
+# driver = webdriver.Chrome()
+# driver.get('http://www.baidu.com')
+# driver.find_element_by_id('kw').send_keys('selenium')
+# driver.find_element_by_id('su').click()
+# #driver.close()
+# #driver.quit()
